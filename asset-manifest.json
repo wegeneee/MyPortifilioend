@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/MyPortifilioend/static/css/main.06a8ae90.css",
+    "main.js": "/MyPortifilioend/static/js/main.0ff11d80.js",
+    "static/js/453.1de3dacb.chunk.js": "/MyPortifilioend/static/js/453.1de3dacb.chunk.js",
+    "static/media/left.png": "/MyPortifilioend/static/media/left.3207434eb732b7c19c43.png",
+    "static/media/me.jpg": "/MyPortifilioend/static/media/me.3d1ca4824c0ec1d5d643.jpg",
+    "static/media/wegea.png": "/MyPortifilioend/static/media/wegea.295f8c952d814a543bd3.png",
+    "static/media/backend.png": "/MyPortifilioend/static/media/backend.34202d846dda689af4bd.png",
+    "static/media/js.png": "/MyPortifilioend/static/media/js.f187baffe3cc344cd507.png",
+    "static/media/css.png": "/MyPortifilioend/static/media/css.f7ad6a4fa1ea23663d75.png",
+    "static/media/html.png": "/MyPortifilioend/static/media/html.6e77d720d5136cb231ae.png",
+    "static/media/email.png": "/MyPortifilioend/static/media/email.17ae42c7df2518196229.png",
+    "static/media/node.png": "/MyPortifilioend/static/media/node.f3d0d813ae18a8a24c52.png",
+    "static/media/chapa.png": "/MyPortifilioend/static/media/chapa.566a4282e8f65f8bbd81.png",
+    "static/media/firebase.png": "/MyPortifilioend/static/media/firebase.a3ef453efec77efffe95.png",
+    "static/media/call.png": "/MyPortifilioend/static/media/call.d7994c43d037cce4d50c.png",
+    "static/media/github.png": "/MyPortifilioend/static/media/github.3e9d8f7916b6c5142819.png",
+    "static/media/softskill.png": "/MyPortifilioend/static/media/softskill.59922f5fab3a93b52a1b.png",
+    "static/media/slick.svg": "/MyPortifilioend/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/MyPortifilioend/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/MyPortifilioend/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/MyPortifilioend/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/MyPortifilioend/index.html",
+    "main.06a8ae90.css.map": "/MyPortifilioend/static/css/main.06a8ae90.css.map",
+    "main.0ff11d80.js.map": "/MyPortifilioend/static/js/main.0ff11d80.js.map",
+    "453.1de3dacb.chunk.js.map": "/MyPortifilioend/static/js/453.1de3dacb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06a8ae90.css",
+    "static/js/main.0ff11d80.js"
+  ]
+}
